@@ -1,0 +1,49 @@
+.full { position: absolute; width: 1920px; height: 1080px; }
+.btm { bottom: -40px;}
+.top { top: -175px; }
+
+.games { background: url('../images/blonk.png'); }
+.matches { background: url('../images/match-title.png'); }
+/* .players { background: url('../images/names.png'); } */
+/* .scores { background: url('../images/scores.png'); } */
+
+.games .game { position: absolute; width: 260px; height: 30px; }
+.games .game1 { top: 100px; left: 510px; }
+
+.matches .match { position: absolute; width: 350px; height: 30px; text-align: center }
+.matches .match1 { top: 107px; left: 785px; }
+
+.players .player { position: absolute; width: 500px; height: 30px; }
+.players .player1 { top: 19px; left: 245px; text-align: right; }
+.players .p1bg { background: url('../images/names-1.png');}
+.players .player2 { top: 83px; left: 261px; text-align: right; }
+.players .p2bg { background: url('../images/names-3.png');}
+.players .player3 { top: 19px; right: 245px; text-align: left; }
+.players .p3bg { background: url('../images/names-2.png');}
+.players .player4 { top: 83px; right: 261px; text-align: left; }
+.players .p4bg { background: url('../images/names-4.png');}
+
+#p1char {position: absolute; top: 10px; left: 246px;
+clip-path: polygon(0 0, 215px 0px, 199px 52px, 0px 52px); transform: scaleX(-1);}
+#p2char {position: absolute; top: 72px; left: 262px;
+clip-path: polygon(0 0, 215px 0px, 199px 52px, 0px 52px); transform: scaleX(-1);}
+#p3char {position: absolute; top: 10px; right: 246px;
+clip-path: polygon(0 0, 215px 0px, 199px 52px, 0px 52px);}
+#p4char {position: absolute; top: 72px; right: 262px;
+clip-path: polygon(0 0, 215px 0px, 199px 52px, 0px 52px);}
+
+#p1a{color: green; font-family: 'Edo'; font-weight: bold/*font-size: 20px*/}
+#p2a{color: green; font-family: 'Edo'; font-weight: bold/*font-size: 20px*/}
+#p3a{color: green; font-family: 'Edo'; font-weight: bold/*font-size: 20px*/}
+#p4a{color: green; font-family: 'Edo'; font-weight: bold/*font-size: 20px*/}
+#p1c{font-size: 0px}
+#p2c{font-size: 0px}
+#p3c{font-size: 0px}
+#p4c{font-size: 0px}
+
+.scores .score { font-family: 'Edo'; position: absolute;
+width: 100px; height: 30px; font-size: 85px; text-align: center;}
+.scores .score1 { top: 30px; left: 757px; }
+.scores .s1bg { background: url('../images/scores-1.png'); }
+.scores .score2 { top: 30px; right: 757px; }
+.scores .s2bg { background: url('../images/scores-2.png'); }

@@ -1,0 +1,19 @@
+Bracket
+d
+dd
+Friendlies
+Grand F
+Grand Final
+Group A
+Group A1
+Group B
+Groups
+Losers F
+Losers QF
+Losers SF
+Pools
+Top 32
+Top 8
+Winners F
+Winners Final
+You probably want to do this live for round numbers

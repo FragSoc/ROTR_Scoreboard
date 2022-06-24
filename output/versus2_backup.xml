@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<versus2>
+	<player1>ENEMY || Magi</player1>
+	<player1A>ENEMY</player1A>
+	<player1B>Magi</player1B>
+	<player2>Jaxel @8wayrun</player2>
+	<player2A>YORK</player2A>
+	<player2B>Weazy</player2B>
+	<score1>15</score1>
+	<score1A>0</score1A>
+	<score1B />
+	<score2>15</score2>
+	<score2A>0</score2A>
+	<score2B />
+	<match>MM || Money Match</match>
+	<matchA>MM</matchA>
+	<matchB>Big Boi Money Match</matchB>
+	<game>SF5 || Street Fighter V</game>
+	<gameA>SF5</gameA>
+	<gameB>Street Fighter V</gameB>
+	<visible>true</visible>
+	<time>635953054624909170</time>
+</versus2>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<doubles>
+	<player1>Doln || FS</player1>
+	<player1A>Doln</player1A>
+	<player1B>FS</player1B>
+	<player2>ExKirby || FS</player2>
+	<player2A>ExKirby</player2A>
+	<player2B>FS</player2B>
+	<player3>turtle || FS</player3>
+	<player3A>turtle</player3A>
+	<player3B>FS</player3B>
+	<player4>Weazy || FS</player4>
+	<player4A>Weazy</player4A>
+	<player4B>FS</player4B>
+	<score1>0</score1>
+	<score1A>0</score1A>
+	<score1B />
+	<score2>0</score2>
+	<score2A>0</score2A>
+	<score2B />
+	<score3>0</score3>
+	<score3A>0</score3A>
+	<score3B />
+	<score4>0</score4>
+	<score4A>0</score4A>
+	<score4B />
+	<image1>bayonetta-1</image1>
+	<image1A>bayonetta-1</image1A>
+	<image1B />
+	<image2>bayonetta-1</image2>
+	<image2A>bayonetta-1</image2A>
+	<image2B />
+	<image3>bayonetta-1</image3>
+	<image3A>bayonetta-1</image3A>
+	<image3B />
+	<image4>bayonetta-1</image4>
+	<image4A>bayonetta-1</image4A>
+	<image4B />
+	<match>Egg nog</match>
+	<matchA>Egg nog</matchA>
+	<matchB />
+	<game />
+	<gameA />
+	<gameB />
+	<visible>true</visible>
+	<time>636846047520568996</time>
+</doubles>

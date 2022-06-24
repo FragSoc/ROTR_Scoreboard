@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<settings>
+		<enableXml>True</enableXml>
+		<enableWss>False</enableWss>
+		<ontop>True</ontop>
+		<snapto>False</snapto>
+		<prefix>Recording</prefix>
+		<versus>VS</versus>
+		<teams>&amp;</teams>
+		<aorb>A</aorb>
+	</settings>
+	<tabs>
+		<item type="timer" name="times" auto="true">
+			<head>Times</head>
+		</item>
+		<item type="talk" name="casters" auto="true">
+			<head>Casters</head>
+		</item>
+		<item type="trophy2" name="rotrsingles" auto="false">
+			<head>RotR Singles</head>
+		</item>
+		<item type="trophy2i" name="singles" auto="true">
+			<head>singles</head>
+		</item>
+		<item type="trophy4i" name="doubles" auto="true">
+			<head>doubles</head>
+		</item>
+	</tabs>
+</config>
